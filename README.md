@@ -142,4 +142,4 @@ Uber-Ride-Data-Analysis/
 
 Aspiring Data Analyst
 
-**Skills:** Python | SQL | Excel | Pandas | NumPy | MySQL
+**Skills:** Python | SQL | Excel | Pandas | NumPy | MySQL | EDA | Analytics
